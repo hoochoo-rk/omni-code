@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="omni-code:serve:production" type="NxRunConfigurationType">
+    <option name="nx-projects" value="omni-code" />
+    <option name="nx-targets" value="serve" />
+    <option name="nx-target-configuration" value="production" />
+    <envs />
+    <option name="arguments" value="" />
+    <method v="2" />
+  </configuration>
+</component>
